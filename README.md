@@ -1,6 +1,9 @@
 # next-redux-skeleton
 
+![https://i.ibb.co/CsgDP1f/Next-ft-Redux-Skeleton.png](https://i.ibb.co/CsgDP1f/Next-ft-Redux-Skeleton.png)
+
 Skeleton project of Next and Redux
+
 
 ## Prerequisite
 
