@@ -1,6 +1,8 @@
 # next-redux-skeleton
 
-![https://i.ibb.co/jb3w514/Next-ft-Redux-Skeleton.png](https://i.ibb.co/jb3w514/Next-ft-Redux-Skeleton.png)
+<p align="center">
+  <img src="https://i.ibb.co/jb3w514/Next-ft-Redux-Skeleton.png" alt="next redux skeleton" />
+</p>
 
 Skeleton project of Next and Redux
 
