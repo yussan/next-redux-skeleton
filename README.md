@@ -29,6 +29,13 @@ Apps will run on port 20203
 npm run build && npm run start
 ```
 
+## REDUX Access
+
+Using react-redux for packaging, you are free to use your favorite redux middleware, just add it according to the documentation below.
+
+**Middlewares**
+Setup your custom middleware on `./redux/store`
+
 ## Refs
 
 - NextJS : https://nextjs.org/
