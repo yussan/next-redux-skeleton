@@ -1,6 +1,11 @@
 # next-redux-skeleton
 
+<p align="center">
+  <img src="https://i.ibb.co/jb3w514/Next-ft-Redux-Skeleton.png" alt="next redux skeleton" />
+</p>
+
 Skeleton project of Next and Redux
+
 
 ## Prerequisite
 
