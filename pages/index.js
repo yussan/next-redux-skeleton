@@ -2,6 +2,7 @@ import Head from "next/head";
 import styles from "../styles/Home.module.css";
 import { connect } from "react-redux";
 import { fetchApi } from "../redux/modules/posts/actions";
+import Link from "next/link";
 
 const HomePage = ({ posts, dispatch }) => {
   return (
@@ -36,6 +37,13 @@ const HomePage = ({ posts, dispatch }) => {
           >
             Click to recall API
           </a>
+          <br />
+          .................
+          <br />
+          Sample set session: <br />
+          <Link href="/login">
+            <a>go to login</a>
+          </Link>
         </p>
         <p>
           {!posts.response || posts.is_loading ? (
