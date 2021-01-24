@@ -36,8 +36,9 @@ Using react-redux for packaging, you are free to use your favorite redux middlew
 **Middlewares**
 Setup your custom middleware on `./redux/store`
 
-## Refs
+## Dependencies
 
 - NextJS : https://nextjs.org/
 - Redux : https://redux.js.org/
 - React : https://reactjs.org/
+- next-iron-session : https://github.com/vvo/next-iron-session
